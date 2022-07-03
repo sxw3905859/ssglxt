@@ -1,6 +1,0 @@
-//该页面为 宿管端-学生管理
-
-id=tj/sc/xg/cx：对应增删改查
-class=buttonmean：按钮对应的div-class
- 
-工作内容在class=main中，html内有注释标记
